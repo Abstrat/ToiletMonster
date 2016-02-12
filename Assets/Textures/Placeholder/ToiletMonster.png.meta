@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 004c3578b3f273e48a81271cf3717aeb
+timeCreated: 1455220891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Toilet
+    21300002: Devil
+    21300004: GoodThing
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Toilet
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 710
+        width: 227
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.5, y: 40}
+        - {x: 107.5, y: 64}
+        - {x: 85.5, y: 107}
+        - {x: 59.5, y: 130}
+        - {x: 31.5, y: 144}
+        - {x: -37.5, y: 144}
+        - {x: -79.5, y: 115}
+        - {x: -89.5, y: 98}
+        - {x: -113.5, y: 48}
+        - {x: -113.5, y: -36}
+        - {x: -103.5, y: -76}
+        - {x: -89.5, y: -97}
+        - {x: -62.5, y: -125}
+        - {x: -48.5, y: -133}
+        - {x: -30.5, y: -142}
+        - {x: -22.5, y: -144}
+        - {x: 36.5, y: -144}
+        - {x: 71.5, y: -121}
+        - {x: 103.5, y: -76}
+        - {x: 113.5, y: -45}
+    - name: Devil
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 774
+        width: 156
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 101}
+        - {x: -77, y: 64}
+        - {x: -78, y: 62}
+        - {x: -78, y: -72}
+        - {x: -74, y: -90}
+        - {x: -54, y: -99}
+        - {x: -43, y: -101}
+        - {x: 37, y: -101}
+        - {x: 61, y: -83}
+        - {x: 78, y: -55}
+        - {x: 78, y: 101}
+    - name: GoodThing
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 782
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 60.5}
+        - {x: -62.5, y: 54.5}
+        - {x: -62.5, y: -28.5}
+        - {x: -35.5, y: -60.5}
+        - {x: 40.5, y: -60.5}
+        - {x: 62.5, y: -46.5}
+        - {x: 62.5, y: 60.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
